@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "239891325129",
+    "firebase_url": "https://fir-test-43985.firebaseio.com",
+    "project_id": "fir-test-43985",
+    "storage_bucket": "fir-test-43985.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239891325129:android:74730bb09b1685ff",
+        "android_client_info": {
+          "package_name": "com.thyago.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239891325129-sumda9kf8mdvt8684v32hqrrrg5odtjr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv3JT1edktdugrzipJohvdoNTWPNQafSY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
